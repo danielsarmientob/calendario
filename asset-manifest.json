@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/calendario/static/css/main.14facd5a.css",
-    "main.js": "/calendario/static/js/main.6acd27da.js",
+    "main.css": "/calendario/static/css/main.f8a42deb.css",
+    "main.js": "/calendario/static/js/main.e95267c2.js",
     "static/media/icomoon.svg?txixd4": "/calendario/static/media/icomoon.463cd7536906b0bda993.svg",
     "static/media/icomoon.eot?txixd4": "/calendario/static/media/icomoon.99ab4071312aebd7ddb6.eot",
     "static/media/icomoon.woff?txixd4": "/calendario/static/media/icomoon.35c44a05329717e5c58c.woff",
     "static/media/icomoon.ttf?txixd4": "/calendario/static/media/icomoon.7bb550422b13c6514647.ttf",
-    "static/media/checkSquare-dark.svg": "/calendario/static/media/checkSquare-dark.855534c580e8e4755b35.svg",
     "static/media/checkSquare.svg": "/calendario/static/media/checkSquare.4ce48c4beee51a9c639b.svg",
     "index.html": "/calendario/index.html",
     "static/media/chevron-down.svg": "/calendario/static/media/chevron-down.2b6fa026cd7667aeeb35.svg",
-    "static/media/contCheck-dark.svg": "/calendario/static/media/contCheck-dark.c237ed71cd42974a4df6.svg",
     "static/media/contCheck.svg": "/calendario/static/media/contCheck.4d20f1be617393d093fc.svg",
-    "main.14facd5a.css.map": "/calendario/static/css/main.14facd5a.css.map",
-    "main.6acd27da.js.map": "/calendario/static/js/main.6acd27da.js.map"
+    "main.f8a42deb.css.map": "/calendario/static/css/main.f8a42deb.css.map",
+    "main.e95267c2.js.map": "/calendario/static/js/main.e95267c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.14facd5a.css",
-    "static/js/main.6acd27da.js"
+    "static/css/main.f8a42deb.css",
+    "static/js/main.e95267c2.js"
   ]
 }
